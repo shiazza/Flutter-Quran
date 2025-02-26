@@ -8,6 +8,17 @@ Flutter Quran is a mobile application built using Flutter that provides various 
 - **Favorite Surahs**: Mark and view your favorite Surahs.
 - **Offline Audio**: Download and listen to Surah recitations offline.
 - **Qibla Direction**: Find the Qibla direction using your device's sensors.
+- **Islamic News**: Make you up to date about islam.
+
+## Development Status ⚒️
+
+| Feature            | Status             |
+|-------------------|-------------------|
+| List of Surahs   | ✅ Done           |
+| Favorite Surahs  | ✅ Done           |
+| Offline Audio    | ⚒️ Under Development |
+| Qibla Direction  | ⚒️ Under Development |
+| Islamic News     | ⚒️ Under Development |
 
 ## Getting Started 💻
 
@@ -60,3 +71,4 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ## Contact ✉️
 
 If you have any questions or want to reach out, feel free to contact me on [Discord Server](https://discord.gg/VeWCudH82z).
+
